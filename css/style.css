@@ -166,7 +166,7 @@ header{
   background-color:#0883C9;
   border-radius: 5px;
 }
-#cur a{
+.nav_item #current a{
  font-weight: bold; 
  font-size: 18pt;
 }
