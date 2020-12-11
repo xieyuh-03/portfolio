@@ -165,7 +165,9 @@ header{
 #current{
   background-color:#0883C9;
   border-radius: 5px;
-  font-weight: bold;
+}
+#current a{
+ font-weight: bold; 
 }
 #current a:hover,a:focus{
   color: white;
